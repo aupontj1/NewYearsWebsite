@@ -187,6 +187,17 @@ button:hover{
     line-height: 24px;
 }
 
+.third-section img{
+    transition: .5s;
+    padding: 10px 0;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.third-section img:hover{
+    transform: translateY(-10px);
+}
+
 /* Footer */
 
 .footer-section{
